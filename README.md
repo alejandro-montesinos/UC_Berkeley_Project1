@@ -1,4 +1,4 @@
-# UC Berkeley Extension Data Analytics Program¶
+# UC Berkeley Extension Data Analytics Program
 ## Project 1: How To Win in the NBA
 
 Team members: Aaron Chen, Alejandro Montesinos, Christian De Vera and Zane Brown
